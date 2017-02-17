@@ -1,8 +1,5 @@
 package com.ganji.android.proguard;
 
-import android.support.annotation.Keep;
-
-import proguard.annotation.KeepField;
 import proguard.annotation.KeepGetterSetter;
 
 /**
